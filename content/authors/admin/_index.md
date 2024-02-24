@@ -42,7 +42,7 @@ education:
     - course: Bachelor in Healthcare Management (with one-year medical training)
       institution: Anhui Medical University
       year: 2017
-
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
