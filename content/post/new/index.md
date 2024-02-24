@@ -1,5 +1,5 @@
 ---
-title: New Websit with Jupyter Notebooks!
+title: New Website!
 date: '2024-02-24'
 summary: 
 ---
