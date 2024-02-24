@@ -70,7 +70,7 @@ organizations:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV - J.LUO - 20230721.pdf
+    link: uploads/CV_J.LUO_20230721.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -78,3 +78,5 @@ highlight_name: true
 
 I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve around social relationships and disability in later life. I also work with the International Centre For Lifecourse Studies (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
 {style="text-align: justify;"}
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_J.LUO_20230721.pdf" "newtab" >}}CV{{< /staticref >}}.
