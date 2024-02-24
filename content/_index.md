@@ -42,6 +42,20 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
@@ -51,7 +65,6 @@ sections:
         Happy to receive any emails that share same interest.
       # Contact (add or remove contact options as necessary)
       email: jiecheng.luo.20@ucl.ac.uk
-      appointment_url: 'https://calendly.com'
       address:
         street: 1-19 Torrington Place
         city: London
