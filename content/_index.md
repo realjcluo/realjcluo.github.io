@@ -93,11 +93,6 @@ sections:
         Feel free to contact me :)
       # Contact (add or remove contact options as necessary)
       email: jiecheng.luo.20@ucl.ac.uk
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/realjcluo'
       address:
         street: 1-19 Torrington Place
         city: London
