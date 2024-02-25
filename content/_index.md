@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-02-24
 type: landing
 
 sections:
@@ -90,20 +90,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Happy to receive any emails that share same interest.
+        Feel free to contact me :)
       # Contact (add or remove contact options as necessary)
       email: jiecheng.luo.20@ucl.ac.uk
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/realjcluo'
       address:
         street: 1-19 Torrington Place
         city: London
         postcode: 'WC1E 7HB'
         country: United Kingdom
         country_code: UK
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/realjcluo'
       # Automatically link email and phone or display as text?
     design:
       columns: '2'

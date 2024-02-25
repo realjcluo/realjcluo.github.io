@@ -72,6 +72,6 @@ highlight_name: true
 ---
 
 I'm a self-motivated PhD student in Epidemiology and Public Health. My research interests revolve around social relationships and disability among older Chinese people. I have developed quantitative and analytical skills with a strong capacity to conduct independent research. I am interested in developing a career that combines teaching and research, while maintaining my interest in collaborating with people from multidisciplinary background.
-{style="text-align: justify;"}
+{style="text-align: left;"}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_J.Luo_20240225.pdf" "newtab" >}}CV{{< /staticref >}}.
