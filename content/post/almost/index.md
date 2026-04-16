@@ -6,6 +6,9 @@ summary:
 
 ChatGPT version: 
 
+Here is link for {{< staticref "uploads/ParticipantInformationSheet_OnlineSurvey_OldVersion.pdf" "newtab" >}}ParticipantInformationSheet_OnlineSurvey{{< /staticref >}}
+
+
 I'm almost finished with my thesis; I only have the discussion part left to write. I need to integrate the previous sections and make them more coherent so I can have a complete picture of my entire project before writing the discussion.
 
 I'm a bit worried because I've noticed that some people have started publishing papers related to my current project. Maybe I need to prepare a short paper for submission.
